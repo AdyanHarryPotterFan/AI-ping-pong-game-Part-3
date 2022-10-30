@@ -1,0 +1,35 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.modal-heading, .modal-body{
+    display: inline;
+}
+
+canvas{
+    border-radius : 5px;
+    box-shadow:3px 3px 3px whitesmoke;
+    border: 2px solid whitesmoke;
+}
+
+.footer{
+    position : sticky;
+    background-color: aqua;
+    color : black;
+    line-height: 2;
+    margin-bottom: 0px;
+    bottom: 0px; 
+}
